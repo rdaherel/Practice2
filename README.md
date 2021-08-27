@@ -1,1 +1,1 @@
-# Practice2 - 2
+# Practice2
